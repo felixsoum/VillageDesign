@@ -1,9 +1,9 @@
 Villager
 Ladder
 Barnes
+Mansion
 Water Well
 Windmill
 Store
 Trees
-Barn
-Barn
+Lake
