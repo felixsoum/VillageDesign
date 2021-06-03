@@ -1,4 +1,5 @@
 Houses
 Water Well
 Windmill
+Store
 Trees
