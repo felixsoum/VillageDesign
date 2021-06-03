@@ -1,4 +1,5 @@
-Houses
+Villager
 Water Well
 Store
 Trees
+Barn
