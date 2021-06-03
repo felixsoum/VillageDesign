@@ -1,4 +1,5 @@
-Houses
+Ladder
 Water Well
 Farm
 Trees
+Barn
