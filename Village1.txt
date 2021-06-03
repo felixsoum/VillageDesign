@@ -1,5 +1,6 @@
 Ladder
 Water Well
-Farm
+Windmill
+Store
 Trees
 Barn
