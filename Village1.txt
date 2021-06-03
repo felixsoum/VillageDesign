@@ -1,5 +1,8 @@
 Villager
+Ladder
 Water Well
+Windmill
 Store
 Trees
+Barn
 Barn
