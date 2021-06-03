@@ -1,6 +1,7 @@
-Ladder
+Mansion
 Water Well
 Windmill
 Store
 Trees
 Barn
+Lake
