@@ -1,5 +1,6 @@
 Villager
 Ladder
+Barnes
 Water Well
 Windmill
 Store
